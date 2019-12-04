@@ -157,6 +157,8 @@ h1 {
   width: auto;
   height: 350px;
   float: left;
+  text-align: center;
+  font-size: 18px;
 }
 
 p {
@@ -192,3 +194,7 @@ a {
   text-decoration: none;
   color: black;
  }
+
+.aisatu {
+  height: 400px;
+}

@@ -97,6 +97,10 @@ body {
     width 100%!important;
     font-size: 17px!important;
   }
+  
+  .map {
+    width: 300px!important;
+  }
 
 }
 

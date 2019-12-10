@@ -67,7 +67,7 @@ body {
   }
 
   .main{
-    height: 1150px!important;
+    height: 900px!important;
   }
 
   .pic1{
@@ -89,6 +89,10 @@ body {
 
   h2 {
     width: 70%!important;
+  }
+  
+  text1{
+    width 100%!important;
   }
 
 
@@ -218,4 +222,6 @@ h2 {
 
 .text1{
   font-size: 20px;
+  width: 80%;
+  margin: 0 auto;
 }

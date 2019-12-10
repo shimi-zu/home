@@ -87,6 +87,10 @@ body {
   font-size: 18px!important;
   }
 
+  h2 {
+    width: 70%!important;
+  }
+
 
 }
 
@@ -156,7 +160,13 @@ h1 {
 .contents1 {
   width: auto;
   height: 350px;
-  float: left;
+  text-align: center;
+  font-size: 18px;
+}
+
+.contents2 {
+  width: auto;
+  height: 350px;
   text-align: center;
   font-size: 18px;
 }
@@ -190,10 +200,22 @@ background-color: white;
 }
 
 a {
+  display:block;
   text-decoration: none;
   color: black;
  }
 
 .aisatu {
   height: 400px;
+}
+
+h2 {
+  background: linear-gradient(transparent 70%, #FFC6C6 70%);
+  width: 40%;
+  margin: 0 auto;
+}
+
+
+.text1{
+  font-size: 20px;
 }
